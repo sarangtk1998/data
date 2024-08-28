@@ -1,5 +1,5 @@
 
 
-def hello(hi,helloo):
+def hello(a,b):
 
-    pass
+    return a+b
